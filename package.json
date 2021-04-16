@@ -1,0 +1,11 @@
+{
+  "name": "soe-crash-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soeCrashServer.js",
+  "scripts": {
+    "build": "npx pkg soeCrashServer.js -t node14-win-x64"
+  },
+  "author": "Quentin Gruber",
+  "license": "MIT"
+}
